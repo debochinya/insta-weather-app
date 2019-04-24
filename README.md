@@ -1,2 +1,3 @@
 # insta-weather-app
-Assignment on openweathermap api
+assignment on 5 day weather forcast of a particular city
+
